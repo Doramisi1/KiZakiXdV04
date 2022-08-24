@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 global.thum = fs.readFileSync("./media/zaki.jpg")
 
-global.autoReadAll = true 
+global.autoReadAll = false
 
 // '6285878313791' ganti nomor kalian '628xxxxxx'
 //KiZakiXD ganti nama kalian xxxxz
@@ -14,9 +14,9 @@ global.owner = ['6285878313791','6281220670449','6283802603905' , '6208319589395
 global.pengguna = 'SKY_GXP-XD'
 global.premium = []
 global.author = 'GXP_XD'
-global.pemilik = ['6285878313791','6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399'] 
-global.ownernomer = '6285878313791','6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399'
-global.ownername = 'KiZakiXD'
+global.pemilik = ['6281368176386','6285878313791','6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281575886399'] 
+global.ownernomer = '6281368176386','6285878313791','6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281575886399'
+global.ownername = 'kang-ghost'
 global.botname = 'SKY-GXP-XD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
@@ -60,7 +60,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Unlimited",
-    free: 99,
+    free: 100,
     monayawal: 1000
 }
    global.rpg = {
